@@ -7,12 +7,12 @@
   },
     "mandante": {
       "nome": "Brasil",
-      "força": 5,
+      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante": {
       "nome": "Argentina",
-      "força": 5,
+      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
   },
@@ -25,12 +25,12 @@
   },
     "mandante": {
       "nome": "Uruguay",
-      "força": 4,
+      "forca": 4,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
     },
     "visitante": {
       "nome": "Brasil",
-      "força": 5,
+      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     }
   },
@@ -43,12 +43,12 @@
   },
     "mandante": {
       "nome": "Brasil",
-      "força": 5,
+      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante": {
       "nome": "Colombia",
-      "força": 3,
+      "forca": 3,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     }
   }
